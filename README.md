@@ -9,8 +9,8 @@ Usage
 
     $ java ApparateMapCreator [inputfile] [outputfile]
 
-Where inputfile is an image, and outputfile is the name of the map files to be
-created.
+inputfile - the image to be converted
+outputfile - map file to be created or replaced
 
 Input images use the following palette:
 
