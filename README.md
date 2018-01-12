@@ -1,10 +1,9 @@
 Apparate Map Creator
 ====================
 
-(for of https://github.com/rhys-vdw/ApparateMapCreator)
+(fork of Rhys van der Waerden's github repo: https://github.com/rhys-vdw/ApparateMapCreator)
 
-Apparate Map Creator will convert an image file a map file for the pathfinding
-tool Apparate.
+Apparate Map Creator will convert an image file a map file for the pathfinding tool APPARATE Path Simulator](https://bitbucket.org/ssardina-research/apparate-simulator).
 
 
 Usage
