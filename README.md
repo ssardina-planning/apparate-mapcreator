@@ -1,13 +1,20 @@
 Apparate Map Creator
 ====================
 
+(for of https://github.com/rhys-vdw/ApparateMapCreator)
+
 Apparate Map Creator will convert an image file a map file for the pathfinding
 tool Apparate.
+
 
 Usage
 -----
 
-    $ java ApparateMapCreator [inputfile] [outputfile]
+Compile it by running: `javac -d bin/ src/*.java`
+
+Then run it as follows:
+
+    $ java -cp bin/ ApparateMapCreator [inputfile] [outputfile]
     
     inputfile - the image to be converted
     outputfile - map file to be created or replaced
