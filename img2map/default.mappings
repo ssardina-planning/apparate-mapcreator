@@ -1,0 +1,6 @@
+;; Default mappings
+128,128,128 ground 2
+128,100,0 swamp 10
+0,0,255 water 20
+0,255,0 tree +inf
+0,0,0 out_of_bounds +inf
